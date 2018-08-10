@@ -135,7 +135,7 @@ elif str(args.mode).lower() == 'list':
     with open(args.arg, 'r') as list_:
         lines = list_.readlines()
         for line in lines:
-            IPS.append(line.replace(' ', '').replace('\n', ''))
+            IPS.append(line.replace(' ', '').replace('\n', '').replace(' ', '').split()[0])
         list_.close()
     print colors.LIST + 'Done!. '+str(len(IPS))+' ips loaded'
     
