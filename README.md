@@ -59,7 +59,7 @@ If you use this file without going through A4.py it will not print correctly in 
 Then you need to execute this command:
 ```
 kek@kek-PC # python A4.py test.txt
-By Fun with love ;)
+By FunSec with love ;)
 ```
 After this simple step ... Happy hacking!.
 
