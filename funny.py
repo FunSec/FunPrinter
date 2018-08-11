@@ -7,6 +7,8 @@ import shodan
 import socks, socket
 import argparse
 
+init()
+
 class colors:
     ERROR = '[' + Fore.LIGHTRED_EX + 'ERROR' + Fore.RESET + '] '
     LIST = '[' + Fore.LIGHTYELLOW_EX + 'LIST' + Fore.RESET + '] '
