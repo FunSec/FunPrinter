@@ -162,3 +162,33 @@ kek@kek-PC # python funny.py --mode shodan/list --arg ip_list/shodan_api_key --m
 [107.154.103.88] Testing JPL
 [107.154.103.88] Protocol not supported. Closing the connection
 ```
+### Requeriments
+```
+python2.7 (Best version of python LMAO)
+pip for python2.7
+```
+After having these two essential requirements, it is necessary to install the following modules with "pip install module" although this step can be done semiautomatically.  
+#### Manual
+Modules to install:
+  ```
+  PySocks, colorama, argparse, shodan
+  ```
+WARNING: Install all modules individually  
+Example:  
+Linux
+```
+pip install PySocks
+```
+Windows
+```
+C:\Python27\Scripts\pip.exe install -r requeriments.txt
+```
+#### Semiautomatic
+Run this command in yout shell m8  
+Linux
+```
+pip install -r requeriments.txt
+```
+Windows
+```
+C:\Python27\Scripts\pip.exe install -r requeriments.txt
