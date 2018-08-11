@@ -1,0 +1,4 @@
+PySocks
+colorama
+argparse
+shodan
