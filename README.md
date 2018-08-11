@@ -181,7 +181,7 @@ pip install PySocks
 ```
 Windows
 ```
-C:\Python27\Scripts\pip.exe install -r requeriments.txt
+C:\Python27\Scripts\pip.exe install PySocks
 ```
 #### Semiautomatic
 Run this command in yout shell m8  
