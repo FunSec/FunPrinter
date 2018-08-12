@@ -51,7 +51,7 @@ def connect(ip, raw):
             print ('[' + Fore.LIGHTRED_EX + ip + Fore.RESET + '] ') + 'Connection failed'
             return 0
         print ('[' + Fore.LIGHTGREEN_EX + ip + Fore.RESET + '] ') + 'Connected!'
-        print ('[' + Fore.LIGHTGREEN_EX + ip + Fore.RESET + '] ') + 'Testing JPL'
+        print ('[' + Fore.LIGHTGREEN_EX + ip + Fore.RESET + '] ') + 'Testing PJL'
         s.send('@PJL INFO STATUS\n')
         try:
             recv = s.recv(1024)
