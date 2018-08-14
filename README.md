@@ -65,7 +65,7 @@ After this simple step ... Happy hacking!.
 
 Example:
 ```
-kek@kek-PC # python funny.py --mode shodan/list --arg ip_list/shodan_api_key --message message (--tor) myfile
+kek@kek-PC # python funny.py --mode list --arg list.txt --message Succ! --tor myfile
     ________________
   _/_______________/|
  /___________/___//||   -- FunPrinter By FunSec --
