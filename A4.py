@@ -18,7 +18,7 @@ def compatibility(file):
 		if len(data_file) > LINE_BREAKS:
 			print '[ERROR] Your file have more than one page'
 			sys.exit()
-		elif len(data_file) == 80:
+		elif len(data_file) == LINE_BREAKS:
 			print '[DONE] Your file have exactly one page'
 			sys.exit()
 		
