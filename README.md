@@ -88,78 +88,78 @@ kek@kek-PC # python funny.py --mode shodan/list --arg ip_list/shodan_api_key --m
 [124.167.222.86] Connection failed
 [162.249.88.74] Connecting...
 [162.249.88.74] Connected!
-[162.249.88.74] Testing JPL
+[162.249.88.74] Testing PJL
 [162.249.88.74] Test completed!
 [162.249.88.74] RICOH MP C4503
 [162.249.88.74] Changing the display screen to Succ!
 [162.249.88.74] Done!. Closing the connection
 [213.248.30.125] Connecting...
 [213.248.30.125] Connected!
-[213.248.30.125] Testing JPL
+[213.248.30.125] Testing PJL
 [213.248.30.125] Protocol not supported. Closing the connection
 [77.236.139.27] Connecting...
 [77.236.139.27] Connected!
-[77.236.139.27] Testing JPL
+[77.236.139.27] Testing PJL
 [77.236.139.27] Protocol not supported. Closing the connection
 [95.173.193.20] Connecting...
 [95.173.193.20] Connected!
-[95.173.193.20] Testing JPL
+[95.173.193.20] Testing PJL
 [95.173.193.20] RAW protocol detected. Sending file
 [95.173.193.20] Done!. Closing the connection
 [218.75.141.13] Connecting...
 [218.75.141.13] Connection failed
 [173.247.166.122] Connecting...
 [173.247.166.122] Connected!
-[173.247.166.122] Testing JPL
+[173.247.166.122] Testing PJL
 [173.247.166.122] RAW protocol detected. Sending file
 [173.247.166.122] Done!. Closing the connection
 [112.171.47.235] Connecting...
 [112.171.47.235] Connected!
-[112.171.47.235] Testing JPL
+[112.171.47.235] Testing PJL
 [112.171.47.235] Protocol not supported. Closing the connection
 [45.60.169.188] Connecting...
 [45.60.169.188] Connected!
-[45.60.169.188] Testing JPL
+[45.60.169.188] Testing PJL
 [45.60.169.188] Protocol not supported. Closing the connection
 [107.154.163.139] Connecting...
 [107.154.163.139] Connected!
-[107.154.163.139] Testing JPL
+[107.154.163.139] Testing PJL
 [107.154.163.139] Protocol not supported. Closing the connection
 [107.154.157.226] Connecting...
 [107.154.157.226] Connected!
-[107.154.157.226] Testing JPL
+[107.154.157.226] Testing PJL
 [107.154.157.226] Protocol not supported. Closing the connection
 [107.154.206.184] Connecting...
 [107.154.206.184] Connected!
-[107.154.206.184] Testing JPL
+[107.154.206.184] Testing PJL
 [107.154.206.184] Protocol not supported. Closing the connection
 [107.154.60.223] Connecting...
 [107.154.60.223] Connected!
-[107.154.60.223] Testing JPL
+[107.154.60.223] Testing PJL
 [107.154.60.223] Protocol not supported. Closing the connection
 [203.130.62.58] Connecting...
 [203.130.62.58] Connected!
-[203.130.62.58] Testing JPL
+[203.130.62.58] Testing PJL
 [203.130.62.58] Protocol not supported. Closing the connection
 [45.60.81.249] Connecting...
 [45.60.81.249] Connected!
-[45.60.81.249] Testing JPL
+[45.60.81.249] Testing PJL
 [45.60.81.249] Protocol not supported. Closing the connection
 [177.0.87.163] Connecting...
 [177.0.87.163] Connected!
-[177.0.87.163] Testing JPL
+[177.0.87.163] Testing PJL
 [177.0.87.163] Test completed!
 [177.0.87.163] Samsung M337x 387x 407x Series
 [177.0.87.163] Changing the display screen to Succ!
 [177.0.87.163] Done!. Closing the connection
 [31.14.252.54] Connecting...
 [31.14.252.54] Connected!
-[31.14.252.54] Testing JPL
+[31.14.252.54] Testing PJL
 [31.14.252.54] RAW protocol detected. Sending file
 [31.14.252.54] Done!. Closing the connection
 [107.154.103.88] Connecting...
 [107.154.103.88] Connected!
-[107.154.103.88] Testing JPL
+[107.154.103.88] Testing PJL
 [107.154.103.88] Protocol not supported. Closing the connection
 ```
 ### Requeriments
